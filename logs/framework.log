@@ -1,0 +1,934 @@
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:28:19 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1350896999\testng-customsuite.xml
+
+2025-10-11 22:28:20 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 25 ms.
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@72ab05ed: 157 ms
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@d400943: 33 ms
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@57bd2029: 18 ms
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4642b71d: 12 ms
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@796d3c9f: 31 ms
+2025-10-11 22:28:35 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bff19ff: 0 ms
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:30:06 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1678103774\testng-customsuite.xml
+
+2025-10-11 22:30:06 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6e28bb87: 239 ms
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d01dfa5: 52 ms
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@469d003c: 66 ms
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2234078: 19 ms
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6719a5b8: 13 ms
+2025-10-11 22:30:25 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eb631b8: 0 ms
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-11 22:31:10 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-319029452\testng-customsuite.xml
+
+2025-10-11 22:31:10 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-11 22:31:25 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-11 22:31:25 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-11 22:31:27 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-11 22:31:27 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-11 22:31:27 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-11 22:31:28 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-11 22:31:31 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@44c5a16f: 107 ms
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@21325036: 3 ms
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@47f08b81: 14 ms
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a91d146: 10 ms
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7f02251: 10 ms
+2025-10-11 22:31:32 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@dffa30b: 0 ms
+2025-10-12 00:38:38 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 00:38:48 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 00:38:48 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 00:38:49 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 00:38:49 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 00:38:50 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 00:38:50 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 00:38:53 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 00:39:28 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 00:39:53 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:09:15 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:14:25 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:17:39 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:19:46 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:19:48 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-10-12 01:19:48 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:19:48 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:19:48 [main] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-10-12 01:19:48 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:19:48 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:19:48 [main] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565)
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115)
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435)
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183)
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426)
+	at testCases.BaseClass.setup(BaseClass.java:31)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:952)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1663)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1528)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157)
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550)
+	... 33 more
+2025-10-12 01:23:28 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:23:31 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-10-12 01:23:31 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:23:31 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:23:31 [main] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-10-12 01:23:31 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:23:31 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:23:31 [main] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565)
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115)
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435)
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183)
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426)
+	at testCases.BaseClass.setup(BaseClass.java:31)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:952)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1663)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1528)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157)
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550)
+	... 33 more
+2025-10-12 01:27:28 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:27:29 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-10-12 01:27:29 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:27:29 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:27:29 [main] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-10-12 01:27:29 [main] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-10-12 01:27:29 [main] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-10-12 01:27:29 [main] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1565)
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115)
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1435)
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1267)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1183)
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1430)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1408)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:426)
+	at testCases.BaseClass.setup(BaseClass.java:31)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:952)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1663)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1528)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157)
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1550)
+	... 33 more
+2025-10-12 01:33:39 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:35:10 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:35:28 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 01:35:29 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 01:35:31 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 01:35:31 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 01:35:32 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 01:35:33 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 01:35:36 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:51:07 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1982633764\testng-customsuite.xml
+
+2025-10-12 01:51:07 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3b77a04f: 242 ms
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@30d4b288: 34 ms
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@666b83a4: 24 ms
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1e63ec0b: 16 ms
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64dafeed: 12 ms
+2025-10-12 01:51:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@388ba540: 0 ms
+2025-10-12 01:51:44 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 01:51:56 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 01:51:56 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 01:51:58 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 01:51:58 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 01:51:59 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 01:51:59 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 01:52:02 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-369452790\testng-customsuite.xml
+
+2025-10-12 01:52:17 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3b77a04f: 102 ms
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@30d4b288: 30 ms
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@666b83a4: 20 ms
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1e63ec0b: 16 ms
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64dafeed: 19 ms
+2025-10-12 01:52:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@388ba540: 1 ms
+2025-10-12 02:03:58 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 02:05:20 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 02:05:26 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:05:27 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:05:28 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:05:28 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:05:28 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:05:29 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:05:32 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 02:05:47 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-12 02:06:01 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:06:01 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:06:02 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:06:02 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:06:03 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:06:03 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:06:06 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 02:18:16 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\crossBrowserandParallel.xml
+
+2025-10-12 02:18:24 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:18:24 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:18:25 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:18:25 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:18:26 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:18:26 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:18:29 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 02:18:43 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:18:44 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:18:45 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:18:45 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:18:46 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:18:46 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:18:48 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 02:20:11 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\crossBrowserandParallel.xml
+
+2025-10-12 02:20:24 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:20:25 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:20:26 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:20:26 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:20:27 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:20:28 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:20:32 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 02:20:34 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-12 02:20:34 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:20:35 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-12 02:20:35 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-12 02:20:35 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-12 02:20:36 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-12 02:20:38 [TestNG-tests-3] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-12 21:13:32 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:42:09 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse--210525709\testng-customsuite.xml
+
+2025-10-13 00:42:09 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@27305e6: 206 ms
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b9ce1bf: 34 ms
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3dddefd8: 41 ms
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64dafeed: 14 ms
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6111ba37: 8 ms
+2025-10-13 00:42:10 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7be58f16: 0 ms
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-13 00:43:10 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1943222013\testng-customsuite.xml
+
+2025-10-13 00:43:10 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@27305e6: 244 ms
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b9ce1bf: 31 ms
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3dddefd8: 33 ms
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64dafeed: 14 ms
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7be58f16: 12 ms
+2025-10-13 00:43:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@242aa8d9: 0 ms
+2025-10-13 01:00:20 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-13 01:00:37 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-13 01:00:37 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-13 01:00:38 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-13 01:00:40 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-14 00:19:41 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:20:47 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:28:01 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:28:52 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:29:39 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:35:12 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:41:20 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:51:23 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 00:55:49 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:03:45 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:03:47 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:03:47 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:05:03 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:05:04 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:05:04 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:08:58 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:08:58 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:08:58 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:09:54 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:09:55 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:09:55 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:09:59 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-14 01:09:59 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-14 01:10:01 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-14 01:10:01 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-14 01:10:02 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-14 01:10:02 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-14 01:10:05 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-14 01:10:06 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:10:06 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:10:09 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-14 01:10:09 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-14 01:10:09 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-14 01:10:10 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-14 01:10:11 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:10:11 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:27:14 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:27:15 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:27:15 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:32:34 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:32:35 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:32:35 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:32:43 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:32:43 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:32:44 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:32:45 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:32:47 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:32:47 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:32:47 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:32:47 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:32:48 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:33:08 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:33:09 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:33:09 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:33:10 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:33:30 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:33:30 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:33:30 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:33:31 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:33:51 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:33:51 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:33:52 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:33:52 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:34:12 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:34:12 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:34:12 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:34:13 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:34:14 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:12 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:42:13 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:42:13 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:42:21 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:22 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:42:23 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:42:24 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:42:25 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:25 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:25 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:42:25 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:42:26 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:42:36 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:36 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:36 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:42:36 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:42:37 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:42:47 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:47 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:47 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:42:47 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:42:48 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:42:58 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:58 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:42:58 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:42:59 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:42:59 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:43:09 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:43:09 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:43:09 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:43:09 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:43:10 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:43:11 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:35 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\mastertest.xml
+
+2025-10-14 01:46:36 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 01:46:36 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 01:46:42 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:42 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:46:43 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:46:44 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:46:45 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:45 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:45 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:46:45 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:46:46 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:46:56 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:56 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:46:56 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:46:57 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:46:57 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:47:08 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:08 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:08 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:47:08 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:47:08 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:47:19 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:19 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:19 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:47:19 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:47:19 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:47:30 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:30 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 01:47:30 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-10-14 01:47:30 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-10-14 01:47:31 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-10-14 01:47:32 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-10-14 21:42:04 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-14 21:42:07 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 21:42:07 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 21:42:21 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 21:42:21 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 21:43:22 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-14 21:43:23 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 21:43:23 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 21:43:32 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-14 21:43:33 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-14 21:43:34 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-14 21:43:34 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-14 21:43:35 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-14 21:43:36 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-14 21:43:39 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-14 21:43:40 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 21:43:40 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 21:43:44 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-14 21:43:44 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-14 21:43:45 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-14 21:43:45 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-14 21:45:40 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-14 21:45:41 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+2025-10-14 21:45:41 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.76\chromedriver.exe
+2025-10-14 21:45:45 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-14 21:45:46 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-14 21:45:47 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-14 21:45:49 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-15 23:55:22 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-15 23:55:25 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-15 23:55:25 [main] INFO  Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/win64/chromedriver-win64.zip
+2025-10-15 23:55:28 [main] INFO  Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2025-10-15 23:55:29 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-15 23:55:43 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-15 23:55:43 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-15 23:56:40 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-15 23:56:41 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-15 23:56:41 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-15 23:57:03 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-15 23:57:04 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-15 23:57:05 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-15 23:57:05 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-15 23:57:06 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-15 23:57:07 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-15 23:57:13 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-15 23:57:13 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-15 23:57:13 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-15 23:57:18 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-15 23:57:18 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-15 23:57:18 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-15 23:57:20 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-16 00:04:39 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-16 00:04:40 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:04:41 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:04:47 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:04:48 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:04:48 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:04:49 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-16 00:04:50 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-16 00:04:50 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-16 00:04:54 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-16 00:04:55 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:04:55 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:04:59 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:04:59 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-16 00:05:00 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-16 00:05:02 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-16 00:14:23 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-16 00:14:24 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:14:24 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:14:32 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:14:33 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:14:35 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:14:35 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-16 00:14:36 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-16 00:14:37 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-16 00:14:44 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-16 00:14:45 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:14:45 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:14:50 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:14:51 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-16 00:14:52 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-16 00:14:54 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-10-16 00:22:56 [main] INFO  Utils - [TestNG] Running:
+  D:\SeleniumReviseMaven\OpenCartFrameWork\grouping.xml
+
+2025-10-16 00:22:57 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:22:57 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:23:02 [main] INFO  TC001_AccountRegistration - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:23:03 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:23:04 [main] INFO  TC001_AccountRegistration - ***clicked on myaccount**
+2025-10-16 00:23:04 [main] INFO  TC001_AccountRegistration - ***Providing customer details**
+2025-10-16 00:23:04 [main] INFO  TC001_AccountRegistration - ***Providing password**
+2025-10-16 00:23:05 [main] INFO  TC001_AccountRegistration - ***clicked on privacy policy**
+2025-10-16 00:23:08 [main] INFO  TC001_AccountRegistration - ***clicked on continue**
+2025-10-16 00:23:09 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+2025-10-16 00:23:09 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+2025-10-16 00:23:13 [main] INFO  TC002_LoginTest - ***Starting of TC001_AccountRegistration***
+2025-10-16 00:23:14 [main] INFO  TC002_LoginTest - ***clicked on myaccount**
+2025-10-16 00:23:14 [main] INFO  TC002_LoginTest - ***clicked on login**
+2025-10-16 00:23:16 [main] INFO  TC002_LoginTest - ***loggedIN successfully**
+2025-11-01 21:55:00 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+2025-11-01 21:55:00 [main] INFO  Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win64/chromedriver-win64.zip
+2025-11-01 21:55:03 [main] INFO  Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2025-11-01 21:55:03 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.122\chromedriver.exe
+2025-11-01 21:57:22 [main] INFO  WebDriverManager - Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+2025-11-01 21:57:23 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\141.0.7390.122\chromedriver.exe
+2025-11-01 21:57:50 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:57:51 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:57:53 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:57:55 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:57:57 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:57:57 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:57:57 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:57:58 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:57:59 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:58:09 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:09 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:09 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:58:10 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:58:10 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:58:21 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:21 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:21 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:58:22 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:58:23 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:58:33 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:33 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:33 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:58:35 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:58:36 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:58:46 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:46 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
+2025-11-01 21:58:47 [main] INFO  TC003_LoginDDT - ***clicked on myaccount**
+2025-11-01 21:58:48 [main] INFO  TC003_LoginDDT - ***clicked on login**
+2025-11-01 21:58:48 [main] INFO  TC003_LoginDDT - ***loggedIN successfully**
+2025-11-01 21:58:50 [main] INFO  TC003_LoginDDT - ***Starting of TC003_***
