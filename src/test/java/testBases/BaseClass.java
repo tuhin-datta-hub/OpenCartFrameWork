@@ -27,13 +27,12 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseClass {
 
 	public static WebDriver driver;
-	public Logger logger;
 	public Properties pf;
 
-	@BeforeClass(groups = {"sanity","regression","master","datadriven"})
+	@BeforeClass
 	@Parameters({"os", "browser"})
 	public void setup(String os, String browser) throws IOException {
-		logger = LogManager.getLogger(this.getClass());
+		
 
 		switch (browser.toLowerCase()) {
 			case "chrome" :
@@ -71,22 +70,7 @@ public class BaseClass {
 		driver.quit();
 	}
 
-	public String randomString() {
-		String generatedString = RandomStringUtils.randomAlphabetic(5);
-		return generatedString;
-	}
-
-	public String randomNumber() {
-		String generatedNumber = RandomStringUtils.randomNumeric(10);
-		return generatedNumber;
-	}
-
-	public String randomAlphaNumeric() {
-		String generatedString = RandomStringUtils.randomAlphabetic(3);
-		String generatedNumber = RandomStringUtils.randomNumeric(10);
-		return (generatedString + "@" + generatedNumber);
-
-	}
+	
 	
 	public String captureScreen(String tname) {
 		

@@ -7,19 +7,14 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="master"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC002_LoginTest">
+      <class name="testCases.EndToEndTest">
         <methods>
           <include name="setup"/>
-          <include name="login"/>
+          <include name="userLogin"/>
           <include name="closeBrowser"/>
         </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
+      </class> <!-- testCases.EndToEndTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
