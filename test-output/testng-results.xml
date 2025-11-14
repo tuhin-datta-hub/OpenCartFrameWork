@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-13T15:36:26 IST" name="Suite" finished-at="2025-11-13T15:36:55 IST" duration-ms="29333">
+  <suite started-at="2025-11-14T10:16:27 IST" name="Suite" finished-at="2025-11-14T10:17:54 IST" duration-ms="87691">
     <groups>
     </groups>
-    <test started-at="2025-11-13T15:36:26 IST" name="Test" finished-at="2025-11-13T15:36:55 IST" duration-ms="29333">
+    <test started-at="2025-11-14T10:16:27 IST" name="Test" finished-at="2025-11-14T10:17:54 IST" duration-ms="87691">
       <class name="testCases.EndToEndTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-13T15:36:26 IST" name="setup" finished-at="2025-11-13T15:36:40 IST" duration-ms="13547" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-14T10:16:27 IST" name="setup" finished-at="2025-11-14T10:16:44 IST" duration-ms="16836" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,29 +23,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="userLogin()[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-13T15:36:40 IST" name="userLogin" finished-at="2025-11-13T15:36:53 IST" duration-ms="13371" status="FAIL">
+        <test-method signature="userLogin()[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-14T10:16:44 IST" name="userLogin" finished-at="2025-11-14T10:17:53 IST" duration-ms="68743" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='XDRRi5']"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='CONTINUE']"}
   (Session info: chrome=142.0.7444.135)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [092012f17c632ab3a71d6f306c127a75, findElement {using=xpath, value=//div[@class='XDRRi5']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.135, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61563}, goog:processID: 6688, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61563/devtoo..., se:cdpVersion: 142.0.7444.135, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 092012f17c632ab3a71d6f306c127a75]]>
+Command: [c12a88e47c9e3a4faf08f4fd7af48df8, findElement {using=xpath, value=//button[text()='CONTINUE']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.135, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58727}, goog:processID: 2636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58727/devtoo..., se:cdpVersion: 142.0.7444.135, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c12a88e47c9e3a4faf08f4fd7af48df8]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='XDRRi5']"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='CONTINUE']"}
   (Session info: chrome=142.0.7444.135)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [092012f17c632ab3a71d6f306c127a75, findElement {using=xpath, value=//div[@class='XDRRi5']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.135, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61563}, goog:processID: 6688, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61563/devtoo..., se:cdpVersion: 142.0.7444.135, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 092012f17c632ab3a71d6f306c127a75
+Command: [c12a88e47c9e3a4faf08f4fd7af48df8, findElement {using=xpath, value=//button[text()='CONTINUE']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.135, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58727}, goog:processID: 2636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58727/devtoo..., se:cdpVersion: 142.0.7444.135, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c12a88e47c9e3a4faf08f4fd7af48df8
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
@@ -63,8 +63,8 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
 at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
-at pageObjects.LoginPage.setOTP(LoginPage.java:35)
-at testCases.EndToEndTest.userLogin(EndToEndTest.java:21)
+at pageObjects.BuyProductPage.continueOrder(BuyProductPage.java:18)
+at testCases.EndToEndTest.userLogin(EndToEndTest.java:39)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -97,7 +97,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userLogin -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-13T15:36:54 IST" name="closeBrowser" finished-at="2025-11-13T15:36:55 IST" duration-ms="1340" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.EndToEndTest@3688eb5b]" started-at="2025-11-14T10:17:54 IST" name="closeBrowser" finished-at="2025-11-14T10:17:54 IST" duration-ms="887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

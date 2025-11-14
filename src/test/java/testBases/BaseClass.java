@@ -65,7 +65,7 @@ public class BaseClass {
 		driver.get(pf.getProperty("url"));
 	}
 
-	@AfterClass(groups = {"sanity","regression","master","datadriven"})
+	@AfterClass
 	public void closeBrowser() {
 		driver.quit();
 	}
